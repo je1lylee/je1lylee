@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[statics](https://github-readme-stats.vercel.app/api?username=je1lylee&theme=default&show_icons=true)
+![Jelly Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=je1lylee&theme=default&show_icons=true)
 
 <!--
 **je1lylee/je1lylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
