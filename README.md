@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+Some thing about me on GitHub.
+
 ![Jelly Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=je1lylee&theme=default&show_icons=true)
+
+My Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je1lylee&layout=compact)
+
 
 <!--
 **je1lylee/je1lylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
